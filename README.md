@@ -17,7 +17,7 @@ This Terraform module will deploy NSX-T edgegateway static route into an existin
 | [vcd_nsxt_edgegateway](https://registry.terraform.io/providers/vmware/vcd/3.10.0/docs/data-sources/nsxt_edgegateway) | data source |
 | [vcd_network_routed_v2](https://registry.terraform.io/providers/vmware/vcd/3.10.0/docs/data-sources/network_routed_v2) | data source |
 | [vcd_external_network_v2](https://registry.terraform.io/providers/vmware/vcd/3.10.0/docs/data-sources/external_network_v2) | data source |
-| [vcd_nsxt_edgegateway_static_route] (https://registry.terraform.io/providers/vmware/vcd/3.10.0/docs/resources/nsxt_edgegateway_static_route)| resource |
+| [vcd_nsxt_edgegateway_static_route](https://registry.terraform.io/providers/vmware/vcd/3.10.0/docs/resources/nsxt_edgegateway_static_route)| resource |
 
 ## Inputs
 
