@@ -6,7 +6,7 @@ This Terraform module will deploy NSX-T edgegateway static route into an existin
 
 | Name      | Version |
 |-----------|---------|
-| terraform | ~> 1.6  |
+| terraform | ~> 1.5.7|
 | vcd       | ~> 3.10 |
 
 ## Resources
